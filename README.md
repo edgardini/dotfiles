@@ -1,2 +1,2 @@
 # dotfiles
-.vimrc .zsh etc
+Personal .vimrc .zsh (and the like) configuration files.
